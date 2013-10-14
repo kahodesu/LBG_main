@@ -1,0 +1,10 @@
+//////////////////////////////////
+//Lightning Bug Game - Main Code// 
+//Kaho Abe                      //
+//////////////////////////////////
+//This goes on my computer MBPro//
+//Communicates with phone1 and  // 
+//phone2.                       //
+//////////////////////////////////
+
+
