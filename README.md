@@ -4,6 +4,7 @@ LBG_main
 This is for a 2 person game I am working on. 
 It goes with LBG_phone1 and LBG_phone2. 
 You need all 3 code to run it. 
+I am using Processing for all 3 codes. 
 
 Android Phones: 
 ================
