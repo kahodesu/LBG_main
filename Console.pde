@@ -9,11 +9,12 @@ void setConsole(){
 void drawConsole(String str){
   float H = W*0.75;
   int ts = 11;
-  float X = width-W;
-  float Y = height-H;
+   float X = 0;
+  float Y = 0;
+ // float X = width-W;
+ // float Y = height-H;
   
   fill(17);
-  rect(X,0,W,Y);
    
   stroke(51);
   line(X,0,X,height);
