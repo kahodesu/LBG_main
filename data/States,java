@@ -1,0 +1,1 @@
+public enum States { REST, STORY, BLACKOUT, GAME, WAIT, REST};

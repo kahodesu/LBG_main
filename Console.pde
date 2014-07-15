@@ -3,10 +3,16 @@ PFont font;
  
 void setConsole(){
   font = loadFont("Helvetica-12.vlw");
+  int W = 180;
+  int WIDTH = 720-W;
+  int HEIGHT = 405;
+  int NUM = 128;
 
 }
  
 void drawConsole(String str){
+
+  
   float H = W*0.75;
   int ts = 11;
    float X = 0;
@@ -23,6 +29,6 @@ void drawConsole(String str){
   fill(255);
   textSize(ts);
   textFont(font, ts);
-  text(str,X+5,ts+5);
-  text(str,X+5,ts+5);
+  text(str,width*0.5,height * 0.5);
+ 
 }
